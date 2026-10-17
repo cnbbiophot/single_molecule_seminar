@@ -32,3 +32,5 @@ Note: Always install packages through Conda before using `pip`. If you need to i
 
 To remove the environment just type: `conda remove -n SMS –all`
 
+## Required files
+You will need to download or clone the Jupyter notebook `AnDi2_diffusion_modes_STUDENT_4.ipynb` and the dataset `mystery_trajectories.npz`.
