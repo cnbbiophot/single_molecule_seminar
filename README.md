@@ -1,10 +1,13 @@
 # Single-Molecule Tracking Analysis. Telling molecular diffusional regimes apart.
 
-This exercise is part of the *Técnicas Experimentales Avanzadas en Nanofísica y Biofísica* course of the *Máster Universitario en Física de la Materia Condensada y de los Sistemas Biológicos*
+This exercise is part of the *Técnicas Experimentales Avanzadas en Nanofísica y Biofísica* course of the *Máster Universitario en Física de la Materia Condensada y de los Sistemas Biológicos*.
 
 The point of this exercise is to explore how different physical mechanisms can give the same $(D, \alpha)$. In doing so, you will learn about additional observables that can help you tell the different diffusional regimes apart.
 
 We will use the models provided by the [2nd AnDi Challenge](https://github.com/AnDiChallenge) to simulate different diffusing scenarios.  
+
+This practical was prepared by Jose Requejo Isidro.  
+Centro Nacional de Biotecnología (CNB, CSIC). Madrid
 
 ## Set up
 You can either run locally on your laptop using VSCode (or your preferred IDE) on a Conda environment, or use a Kaggle account and run the notebook online. Please choose one of the options and follow the instructions before the seminar:
