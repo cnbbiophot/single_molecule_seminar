@@ -32,14 +32,13 @@ To remove the environment just type:
     conda remove -n SMS –all
 
 ## Required files and configuration
-You will need to download or clone the Jupyter notebook `AnDi2_diffusion_modes_STUDENT_4.ipynb` and the dataset `mystery_trajectories.npz`.  
-If running on **Kaggle** follow the *set-up instructions* in the notebook.  
-If running **locally**, just download the two files in the same folder and open the notebook.
+You will need to download or clone the Jupyter notebook `AnDi2_diffusion_modes_STUDENT_4.ipynb` and the dataset `mystery_trajectories.npz`.
 
+If running on **Kaggle** import the `AnDi2_diffusion_modes_STUDENT_4.ipynb` notebook (File -> Import Notebook) and follow the *set-up instructions* as described in the notebook.  
+If running **locally**, download the two files in the same folder and open the notebook. Activate the SMS environment you haver created before running.
 
 ## Instructors
-*Jose Requejo-Isidro* & *Julia Rubio Loscertales*. Centro Nacional de Biotecnología (CNB, CSIC), IMDEA Nanociencia.  
-
+*Jose Requejo-Isidro* & *Julia Rubio Loscertales*. Centro Nacional de Biotecnología (CNB, CSIC), IMDEA Nanociencia. Madrid.
 
 ## License
 The course materials are released under the MIT License.
