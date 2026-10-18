@@ -21,7 +21,7 @@ Go to: https://www.kaggle.com/
 **Option 2: Local Installation with Conda and VSCode:**  
 Create an environment using the following sequence of commands from the terminal (Linux) or Anaconda prompt (Windows). Do not despair, solving dependencies may take around 5 min (note: SMS stands for *Single-Molecule Spectroscopy).
 
-    conda create -n SMS -c conda-forge python=3.11 numpy=1.26.4 matplotlib "ipykernel<7" -y  
+    conda create -n SMS -c conda-forge python=3.11 matplotlib numpy "ipykernel<7" -y  
     conda activate SMS      
     python -m pip install "andi-datasets>=2.1"
 
