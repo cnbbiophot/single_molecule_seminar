@@ -6,6 +6,8 @@ The point of this exercise is to explore how different physical mechanisms can g
 
 We will use the models provided by the [2nd AnDi Challenge](https://github.com/AnDiChallenge) to simulate biologically motivated diffusing scenarios.  
 
+**Instructors**: *Jose Requejo-Isidro* & *Julia Rubio Loscertales*. Centro Nacional de Biotecnología (CNB, CSIC), IMDEA Nanociencia. Madrid.
+
 ## Getting started
 You can either run locally on your laptop using VSCode (or your preferred IDE) on a Conda environment, or use a Kaggle account and run the notebook online. 
 
@@ -35,10 +37,7 @@ To remove the environment just type:
 You will need to download or clone the Jupyter notebook `AnDi2_diffusion_modes_STUDENT_4.ipynb` and the dataset `mystery_trajectories.npz`.
 
 If running on **Kaggle** import the `AnDi2_diffusion_modes_STUDENT_4.ipynb` notebook (File -> Import Notebook) and follow the *set-up instructions* as described in the notebook.  
-If running **locally**, download the two files in the same folder and open the notebook. Activate the SMS environment you haver created before running.
-
-## Instructors
-*Jose Requejo-Isidro* & *Julia Rubio Loscertales*. Centro Nacional de Biotecnología (CNB, CSIC), IMDEA Nanociencia. Madrid.
+If running **locally**, download the two files to the same folder and open the notebook. Activate the SMS environment you have created before running.
 
 ## License
 The course materials are released under the MIT License.
