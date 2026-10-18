@@ -37,8 +37,8 @@ If running on **Kaggle** follow the *set-up instructions* in the notebook.
 If running **locally**, just download the two files in the same folder and open the notebook.
 
 
-## Acknowledgements
-This practical was prepared by: Jose Requejo-Isidro. Centro Nacional de Biotecnología (CNB, CSIC). Madrid.
+## Instructors
+*Jose Requejo-Isidro* & *Julia Rubio*. Centro Nacional de Biotecnología (CNB, CSIC), IMDEA Nanociencia.  
 
 
 ## License
