@@ -19,10 +19,10 @@ Go to: https://www.kaggle.com/
 5.    Session Options → Internet: On
 
 **Option 2: Local Installation with Conda and VSCode:**  
-Create an environment using the following sequence of commands from the terminal (Linux) or Anaconda prompt (Windows). Do not despair, solving dependencies may take a while (sometimes more than 5 min) (note: SMS stands for *Single-Molecule Spectroscopy).
+Create an environment using the following sequence of commands from the terminal (Linux) or Anaconda prompt (Windows). Do not despair, solving dependencies may take around 5 min (note: SMS stands for *Single-Molecule Spectroscopy).
 
-    conda create -n SMS -c conda-forge python=3.11 matplotlib numpy "ipykernel<7" -y  
-    conda activate SMS
+    conda create -n SMS -c conda-forge python=3.11 numpy=1.26.4 matplotlib "ipykernel<7" -y  
+    conda activate SMS      
     python -m pip install "andi-datasets>=2.1"
 
 Note: Always install packages through Conda before using `pip`. If you need to install additional Conda packages after using `pip`, it is generally best to delete the environment and start from scratch to avoid dependency conflicts.
