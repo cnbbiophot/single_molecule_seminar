@@ -2,7 +2,7 @@
 
 This exercise is part of the *Técnicas Experimentales Avanzadas en Nanofísica y Biofísica* course of the [*Máster Universitario en Física de la Materia Condensada y de los Sistemas Biológicos* (UAM, Madrid)](https://www.uam.es/uam/master-universitario-fisica-materia-condensada-sistemas-biologicos) .
 
-The point of this exercise is to explore how different physical mechanisms can give the same diffusion coefficient $D$ and anomalous exponent $\alpha$. In doing so, you will learn about additional observables that can help you tell the different diffusional regimes apart.
+The point of this exercise is to explore how different physical mechanisms can give the same diffusion coefficient ($D$) and anomalous exponent ($\alpha$). In doing so, you will learn about additional observables that can help you tell the different diffusional regimes apart.
 
 We will use the models provided by the [2nd AnDi Challenge](https://github.com/AnDiChallenge) to simulate biologically motivated diffusing scenarios.  
 
@@ -38,7 +38,7 @@ If running **locally**, just download the two files in the same folder and open 
 
 
 ## Instructors
-*Jose Requejo-Isidro* & *Julia Rubio*. Centro Nacional de Biotecnología (CNB, CSIC), IMDEA Nanociencia.  
+*Jose Requejo-Isidro* & *Julia Rubio Loscertales*. Centro Nacional de Biotecnología (CNB, CSIC), IMDEA Nanociencia.  
 
 
 ## License
